@@ -1,0 +1,12 @@
+{
+  "name": "performance-parser",
+  "description": "Parse the browser's native Performance timing data into human-readable metrics",
+  "version": "0.0.1",
+  "stable": false,
+  "unlisted": true,
+  "fmt": true,
+  "files": [
+    "./src/**/*",
+    "./README.md"
+  ]
+}
