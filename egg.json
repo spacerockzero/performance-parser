@@ -4,10 +4,9 @@
   "version": "0.0.1",
   "stable": false,
   "unlisted": true,
-  "fmt": true,
   "repository": "https://github.com/spacerockzero/performance-parser",
   "files": [
-    "./src/**/*",
+    "./mod.ts",
     "./README.md"
   ]
 }
