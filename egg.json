@@ -5,6 +5,7 @@
   "stable": false,
   "unlisted": true,
   "fmt": true,
+  "repository": "https://github.com/spacerockzero/performance-parser",
   "files": [
     "./src/**/*",
     "./README.md"
